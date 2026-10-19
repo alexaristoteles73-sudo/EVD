@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "path": "/",
+            "title": "QuickPrint Home"
+        },
+        {
+            "path": "/services.html",
+            "title": "QuickPrint Services"
+        },
+        {
+            "path": "/pricing.html",
+            "title": "QuickPrint Pricing"
+        },
+        {
+            "path": "/about.html",
+            "title": "About QuickPrint"
+        },
+        {
+            "path": "/contact.html",
+            "title": "QuickPrint Contact & Location"
+        }
+    ]
+}
